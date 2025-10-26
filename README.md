@@ -1,4 +1,4 @@
-# -YouTube-Video-Uploader---Complete-Automated-System
+# 🎬 YouTube Auto Uploader - Complete Automated System
 ## 📖 Project Introduction
 **YouTube Auto Uploader** is a fully automated system designed to upload videos from your **AWS S3 bucket** directly to your **YouTube channel** without any manual effort.  
 The system automatically uploads **2 videos per day** — one at **9:00 AM** and another at **8:00 PM**, while also sending **email notifications** for successful uploads.
