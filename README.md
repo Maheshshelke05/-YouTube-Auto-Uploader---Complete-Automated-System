@@ -61,7 +61,6 @@ The system automatically uploads **2 videos per day** — one at **9:00 AM** and
 - Bucket: `cartoon-shorts-videos`  
 - Folder: `meo`  
 
-![Code Implementation](img/S3.png)
 ![Code Implementation](img/s3fold.png)
 ![Code Implementation](img/s3video.png)
 
